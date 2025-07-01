@@ -1,0 +1,2769 @@
+{
+  
+  "users": [
+    {
+      "id": 1,
+      "username": "Rahul Sharma",
+      "email": "rahul.sharma@gmail.com",
+      "registration_date": "2025-06-01",
+      "last_login": "2025-06-29"
+    },
+    {
+      "id": 2,
+      "username": "Priya Nair",
+      "email": "priya.nair@outlook.com",
+      "registration_date": "2025-06-01",
+      "last_login": "2025-06-28"
+    },
+    {
+      "id": 3,
+      "username": "Anil Patel",
+      "email": "anil.patel23@yahoo.com",
+      "registration_date": "2025-06-02",
+      "last_login": "2025-06-27"
+    },
+    {
+      "id": 4,
+      "username": "Lakshmi Reddy",
+      "email": "lakshmi.reddy@gmail.com",
+      "registration_date": "2025-06-02",
+      "last_login": "2025-06-26"
+    },
+    {
+      "id": 5,
+      "username": "Arjun Singh",
+      "email": "arjun.singh12@gmail.com",
+      "registration_date": "2025-06-03",
+      "last_login": "2025-06-25"
+    },
+    {
+      "id": 6,
+      "username": "Ananya Das",
+      "email": "ananya.das@yahoo.com",
+      "registration_date": "2025-06-03",
+      "last_login": "2025-06-24"
+    },
+    {
+      "id": 7,
+      "username": "Vikram Gupta",
+      "email": "vikram.gupta@outlook.com",
+      "registration_date": "2025-06-04",
+      "last_login": "2025-06-23"
+    },
+    {
+      "id": 8,
+      "username": "Sanya Mehta",
+      "email": "sanya.mehta@gmail.com",
+      "registration_date": "2025-06-04",
+      "last_login": "2025-06-22"
+    },
+    {
+      "id": 9,
+      "username": "Rohan Banerjee",
+      "email": "rohan.banerjee34@gmail.com",
+      "registration_date": "2025-06-05",
+      "last_login": "2025-06-21"
+    },
+    {
+      "id": 10,
+      "username": "Divya Iyer",
+      "email": "divya.iyer@yahoo.com",
+      "registration_date": "2025-06-05",
+      "last_login": "2025-06-20"
+    },
+    {
+      "id": 11,
+      "username": "Amit Kumar",
+      "email": "amit.kumar56@gmail.com",
+      "registration_date": "2025-06-06",
+      "last_login": "2025-06-19"
+    },
+    {
+      "id": 12,
+      "username": "Neha Joshi",
+      "email": "neha.joshi@outlook.com",
+      "registration_date": "2025-06-06",
+      "last_login": "2025-06-18"
+    },
+    {
+      "id": 13,
+      "username": "Suresh Menon",
+      "email": "suresh.menon12@gmail.com",
+      "registration_date": "2025-06-07",
+      "last_login": "2025-06-17"
+    },
+    {
+      "id": 14,
+      "username": "Pooja Shah",
+      "email": "pooja.shah@yahoo.com",
+      "registration_date": "2025-06-07",
+      "last_login": "2025-06-16"
+    },
+    {
+      "id": 15,
+      "username": "Kiran Rao",
+      "email": "kiran.rao45@gmail.com",
+      "registration_date": "2025-06-08",
+      "last_login": "2025-06-15"
+    },
+    {
+      "id": 16,
+      "username": "Meera Pillai",
+      "email": "meera.pillai@outlook.com",
+      "registration_date": "2025-06-08",
+      "last_login": "2025-06-14"
+    },
+    {
+      "id": 17,
+      "username": "Aditya Verma",
+      "email": "aditya.verma67@gmail.com",
+      "registration_date": "2025-06-09",
+      "last_login": "2025-06-13"
+    },
+    {
+      "id": 18,
+      "username": "Shalini Thakur",
+      "email": "shalini.thakur@yahoo.com",
+      "registration_date": "2025-06-09",
+      "last_login": "2025-06-12"
+    },
+    {
+      "id": 19,
+      "username": "Nikhil Choudhary",
+      "email": "nikhil.choudhary23@gmail.com",
+      "registration_date": "2025-06-10",
+      "last_login": "2025-06-11"
+    },
+    {
+      "id": 20,
+      "username": "Riya Malhotra",
+      "email": "riya.malhotra@outlook.com",
+      "registration_date": "2025-06-10",
+      "last_login": "2025-06-10"
+    },
+    {
+      "id": 21,
+      "username": "Siddharth Jain",
+      "email": "siddharth.jain89@gmail.com",
+      "registration_date": "2025-06-11",
+      "last_login": "2025-06-09"
+    },
+    {
+      "id": 22,
+      "username": "Anita Varghese",
+      "email": "anita.varghese@yahoo.com",
+      "registration_date": "2025-06-11",
+      "last_login": "2025-06-08"
+    },
+    {
+      "id": 23,
+      "username": "Vivek Pandey",
+      "email": "vivek.pandey12@gmail.com",
+      "registration_date": "2025-06-12",
+      "last_login": "2025-06-07"
+    },
+    {
+      "id": 24,
+      "username": "Kavya Suresh",
+      "email": "kavya.suresh@outlook.com",
+      "registration_date": "2025-06-12",
+      "last_login": "2025-06-06"
+    },
+    {
+      "id": 25,
+      "username": "Harish Nair",
+      "email": "harish.nair34@gmail.com",
+      "registration_date": "2025-06-13",
+      "last_login": "2025-06-05"
+    },
+    {
+      "id": 26,
+      "username": "Sneha Kapoor",
+      "email": "sneha.kapoor@yahoo.com",
+      "registration_date": "2025-06-13",
+      "last_login": "2025-06-04"
+    },
+    {
+      "id": 27,
+      "username": "Rakesh Yadav",
+      "email": "rakesh.yadav56@gmail.com",
+      "registration_date": "2025-06-14",
+      "last_login": "2025-06-03"
+    },
+    {
+      "id": 28,
+      "username": "Tanya Roy",
+      "email": "tanya.roy@outlook.com",
+      "registration_date": "2025-06-14",
+      "last_login": "2025-06-02"
+    },
+    {
+      "id": 29,
+      "username": "Manish Agrawal",
+      "email": "manish.agrawal78@gmail.com",
+      "registration_date": "2025-06-15",
+      "last_login": "2025-06-01"
+    },
+    {
+      "id": 30,
+      "username": "Deepa Venkatesh",
+      "email": "deepa.venkatesh@yahoo.com",
+      "registration_date": "2025-06-15",
+      "last_login": "2025-06-29"
+    },
+    {
+      "id": 31,
+      "username": "Sachin Rana",
+      "email": "sachin.rana12@gmail.com",
+      "registration_date": "2025-06-16",
+      "last_login": "2025-06-28"
+    },
+    {
+      "id": 32,
+      "username": "Aishwarya Bose",
+      "email": "aishwarya.bose@outlook.com",
+      "registration_date": "2025-06-16",
+      "last_login": "2025-06-27"
+    },
+    {
+      "id": 33,
+      "username": "Prakash Desai",
+      "email": "prakash.desai34@gmail.com",
+      "registration_date": "2025-06-17",
+      "last_login": "2025-06-26"
+    },
+    {
+      "id": 34,
+      "username": "Nandini Kulkarni",
+      "email": "nandini.kulkarni@yahoo.com",
+      "registration_date": "2025-06-17",
+      "last_login": "2025-06-25"
+    },
+    {
+      "id": 35,
+      "username": "Vishal Saxena",
+      "email": "vishal.saxena56@gmail.com",
+      "registration_date": "2025-06-18",
+      "last_login": "2025-06-24"
+    },
+    {
+      "id": 36,
+      "username": "Shruti Mistry",
+      "email": "shruti.mistry@outlook.com",
+      "registration_date": "2025-06-18",
+      "last_login": "2025-06-23"
+    },
+    {
+      "id": 37,
+      "username": "Akash Tiwari",
+      "email": "akash.tiwari78@gmail.com",
+      "registration_date": "2025-06-19",
+      "last_login": "2025-06-22"
+    },
+    {
+      "id": 38,
+      "username": "Mira Nambiar",
+      "email": "mira.nambiar@yahoo.com",
+      "registration_date": "2025-06-19",
+      "last_login": "2025-06-21"
+    },
+    {
+      "id": 39,
+      "username": "Ravi Dutta",
+      "email": "ravi.dutta12@gmail.com",
+      "registration_date": "2025-06-20",
+      "last_login": "2025-06-20"
+    },
+    {
+      "id": 40,
+      "username": "Simran Gill",
+      "email": "simran.gill@outlook.com",
+      "registration_date": "2025-06-20",
+      "last_login": "2025-06-19"
+    },
+    {
+      "id": 41,
+      "username": "Kunal Arora",
+      "email": "kunal.arora34@gmail.com",
+      "registration_date": "2025-06-21",
+      "last_login": "2025-06-18"
+    },
+    {
+      "id": 42,
+      "username": "Radhika Shenoy",
+      "email": "radhika.shenoy@yahoo.com",
+      "registration_date": "2025-06-21",
+      "last_login": "2025-06-17"
+    },
+    {
+      "id": 43,
+      "username": "Ajay Mishra",
+      "email": "ajay.mishra56@gmail.com",
+      "registration_date": "2025-06-22",
+      "last_login": "2025-06-16"
+    },
+    {
+      "id": 44,
+      "username": "Preeti Balan",
+      "email": "preeti.balan@outlook.com",
+      "registration_date": "2025-06-22",
+      "last_login": "2025-06-15"
+    },
+    {
+      "id": 45,
+      "username": "Sanjay Chawla",
+      "email": "sanjay.chawla78@gmail.com",
+      "registration_date": "2025-06-23",
+      "last_login": "2025-06-14"
+    },
+    {
+      "id": 46,
+      "username": "Tara Khanna",
+      "email": "tara.khanna@yahoo.com",
+      "registration_date": "2025-06-23",
+      "last_login": "2025-06-13"
+    },
+    {
+      "id": 47,
+      "username": "Gaurav Sethi",
+      "email": "gaurav.sethi12@gmail.com",
+      "registration_date": "2025-06-24",
+      "last_login": "2025-06-12"
+    },
+    {
+      "id": 48,
+      "username": "Ishita Varma",
+      "email": "ishita.varma@outlook.com",
+      "registration_date": "2025-06-24",
+      "last_login": "2025-06-11"
+    },
+    {
+      "id": 49,
+      "username": "Naveen Pillai",
+      "email": "naveen.pillai34@gmail.com",
+      "registration_date": "2025-06-25",
+      "last_login": "2025-06-10"
+    },
+    {
+      "id": 50,
+      "username": "Anjali Rawat",
+      "email": "anjali.rawat@yahoo.com",
+      "registration_date": "2025-06-25",
+      "last_login": "2025-06-09"
+    },
+    {
+      "id": 51,
+      "username": "Vijay Sengupta",
+      "email": "vijay.sengupta56@gmail.com",
+      "registration_date": "2025-06-26",
+      "last_login": "2025-06-08"
+    },
+    {
+      "id": 52,
+      "username": "Swati Hegde",
+      "email": "swati.hegde@outlook.com",
+      "registration_date": "2025-06-26",
+      "last_login": "2025-06-07"
+    },
+    {
+      "id": 53,
+      "username": "Mahesh Bhatt",
+      "email": "mahesh.bhatt78@gmail.com",
+      "registration_date": "2025-06-27",
+      "last_login": "2025-06-06"
+    },
+    {
+      "id": 54,
+      "username": "Rekha Nanda",
+      "email": "rekha.nanda@yahoo.com",
+      "registration_date": "2025-06-27",
+      "last_login": "2025-06-05"
+    },
+    {
+      "id": 55,
+      "username": "Rohit Kale",
+      "email": "rohit.kale12@gmail.com",
+      "registration_date": "2025-06-28",
+      "last_login": "2025-06-04"
+    },
+    {
+      "id": 56,
+      "username": "Suman Rathi",
+      "email": "suman.rathi@outlook.com",
+      "registration_date": "2025-06-28",
+      "last_login": "2025-06-03"
+    },
+    {
+      "id": 57,
+      "username": "Karthik Menon",
+      "email": "karthik.menon34@gmail.com",
+      "registration_date": "2025-06-01",
+      "last_login": "2025-06-02"
+    },
+    {
+      "id": 58,
+      "username": "Nisha Grover",
+      "email": "nisha.grover@yahoo.com",
+      "registration_date": "2025-06-01",
+      "last_login": "2025-06-01"
+    },
+    {
+      "id": 59,
+      "username": "Saurabh Dua",
+      "email": "saurabh.dua56@gmail.com",
+      "registration_date": "2025-06-02",
+      "last_login": "2025-06-29"
+    },
+    {
+      "id": 60,
+      "username": "Komal Seth",
+      "email": "komal.seth@outlook.com",
+      "registration_date": "2025-06-02",
+      "last_login": "2025-06-28"
+    },
+    {
+      "id": 61,
+      "username": "Vinod Nair",
+      "email": "vinod.nair78@gmail.com",
+      "registration_date": "2025-06-03",
+      "last_login": "2025-06-27"
+    },
+    {
+      "id": 62,
+      "username": "Pallavi Rao",
+      "email": "pallavi.rao@yahoo.com",
+      "registration_date": "2025-06-03",
+      "last_login": "2025-06-26"
+    },
+    {
+      "id": 63,
+      "username": "Arun Khurana",
+      "email": "arun.khurana12@gmail.com",
+      "registration_date": "2025-06-04",
+      "last_login": "2025-06-25"
+    },
+    {
+      "id": 64,
+      "username": "Shreya Vaidya",
+      "email": "shreya.vaidya@outlook.com",
+      "registration_date": "2025-06-04",
+      "last_login": "2025-06-24"
+    },
+    {
+      "id": 65,
+      "username": "Mohan Dasgupta",
+      "email": "mohan.dasgupta34@gmail.com",
+      "registration_date": "2025-06-05",
+      "last_login": "2025-06-23"
+    },
+    {
+      "id": 66,
+      "username": "Ritika Jha",
+      "email": "ritika.jha@yahoo.com",
+      "registration_date": "2025-06-05",
+      "last_login": "2025-06-22"
+    },
+    {
+      "id": 67,
+      "username": "Sameer Bhasin",
+      "email": "sameer.bhasin56@gmail.com",
+      "registration_date": "2025-06-06",
+      "last_login": "2025-06-21"
+    },
+    {
+      "id": 68,
+      "username": "Ankita Sood",
+      "email": "ankita.sood@outlook.com",
+      "registration_date": "2025-06-06",
+      "last_login": "2025-06-20"
+    },
+    {
+      "id": 69,
+      "username": "Nitin Chhabra",
+      "email": "nitin.chhabra78@gmail.com",
+      "registration_date": "2025-06-07",
+      "last_login": "2025-06-19"
+    },
+    {
+      "id": 70,
+      "username": "Vidya Iyer",
+      "email": "vidya.iyer@yahoo.com",
+      "registration_date": "2025-06-07",
+      "last_login": "2025-06-18"
+    },
+    {
+      "id": 71,
+      "username": "Raghav Malhotra",
+      "email": "raghav.malhotra12@gmail.com",
+      "registration_date": "2025-06-08",
+      "last_login": "2025-06-17"
+    },
+    {
+      "id": 72,
+      "username": "Smita Nair",
+      "email": "smita.nair@outlook.com",
+      "registration_date": "2025-06-08",
+      "last_login": "2025-06-16"
+    },
+    {
+      "id": 73,
+      "username": "Pranav Sethi",
+      "email": "pranav.sethi34@gmail.com",
+      "registration_date": "2025-06-09",
+      "last_login": "2025-06-15"
+    },
+    {
+      "id": 74,
+      "username": "Tanvi Grover",
+      "email": "tanvi.grover@yahoo.com",
+      "registration_date": "2025-06-09",
+      "last_login": "2025-06-14"
+    },
+    {
+      "id": 75,
+      "username": "Aryan Khanna",
+      "email": "aryan.khanna56@gmail.com",
+      "registration_date": "2025-06-10",
+      "last_login": "2025-06-13"
+    },
+    {
+      "id": 76,
+      "username": "Shivani Rao",
+      "email": "shivani.rao@outlook.com",
+      "registration_date": "2025-06-10",
+      "last_login": "2025-06-12"
+    },
+    {
+      "id": 77,
+      "username": "Yashwant Patel",
+      "email": "yashwant.patel78@gmail.com",
+      "registration_date": "2025-06-11",
+      "last_login": "2025-06-11"
+    },
+    {
+      "id": 78,
+      "username": "Bhavna Sharma",
+      "email": "bhavna.sharma@yahoo.com",
+      "registration_date": "2025-06-11",
+      "last_login": "2025-06-10"
+    },
+    {
+      "id": 79,
+      "username": "Hitesh Jain",
+      "email": "hitesh.jain12@gmail.com",
+      "registration_date": "2025-06-12",
+      "last_login": "2025-06-09"
+    },
+    {
+      "id": 80,
+      "username": "Kriti Varghese",
+      "email": "kriti.varghese@outlook.com",
+      "registration_date": "2025-06-12",
+      "last_login": "2025-06-08"
+    },
+    {
+      "id": 81,
+      "username": "Sumit Banerjee",
+      "email": "sumit.banerjee34@gmail.com",
+      "registration_date": "2025-06-13",
+      "last_login": "2025-06-07"
+    },
+    {
+      "id": 82,
+      "username": "Anusha Menon",
+      "email": "anusha.menon@yahoo.com",
+      "registration_date": "2025-06-13",
+      "last_login": "2025-06-06"
+    },
+    {
+      "id": 83,
+      "username": "Devendra Singh",
+      "email": "devendra.singh56@gmail.com",
+      "registration_date": "2025-06-14",
+      "last_login": "2025-06-05"
+    },
+    {
+      "id": 84,
+      "username": "Ragini Thakur",
+      "email": "ragini.thakur@outlook.com",
+      "registration_date": "2025-06-14",
+      "last_login": "2025-06-04"
+    },
+    {
+      "id": 85,
+      "username": "Abhishek Das",
+      "email": "abhishek.das78@gmail.com",
+      "registration_date": "2025-06-15",
+      "last_login": "2025-06-03"
+    },
+    {
+      "id": 86,
+      "username": "Sonia Rawat",
+      "email": "sonia.rawat@yahoo.com",
+      "registration_date": "2025-06-15",
+      "last_login": "2025-06-02"
+    },
+    {
+      "id": 87,
+      "username": "Nikhil Reddy",
+      "email": "nikhil.reddy12@gmail.com",
+      "registration_date": "2025-06-16",
+      "last_login": "2025-06-01"
+    },
+    {
+      "id": 88,
+      "username": "Jaya Kapoor",
+      "email": "jaya.kapoor@outlook.com",
+      "registration_date": "2025-06-16",
+      "last_login": "2025-06-29"
+    },
+    {
+      "id": 89,
+      "username": "Sanket Gupta",
+      "email": "sanket.gupta34@gmail.com",
+      "registration_date": "2025-06-17",
+      "last_login": "2025-06-28"
+    },
+    {
+      "id": 90,
+      "username": "Mansi Shah",
+      "email": "mansi.shah@yahoo.com",
+      "registration_date": "2025-06-17",
+      "last_login": "2025-06-27"
+    },
+    {
+      "id": 91,
+      "username": "Ritesh Saxena",
+      "email": "ritesh.saxena56@gmail.com",
+      "registration_date": "2025-06-18",
+      "last_login": "2025-06-26"
+    },
+    {
+      "id": 92,
+      "username": "Aditi Kulkarni",
+      "email": "aditi.kulkarni@outlook.com",
+      "registration_date": "2025-06-18",
+      "last_login": "2025-06-25"
+    },
+    {
+      "id": 93,
+      "username": "Vikas Mistry",
+      "email": "vikas.mistry78@gmail.com",
+      "registration_date": "2025-06-19",
+      "last_login": "2025-06-24"
+    },
+    {
+      "id": 94,
+      "username": "Priyanka Hegde",
+      "email": "priyanka.hegde@yahoo.com",
+      "registration_date": "2025-06-19",
+      "last_login": "2025-06-23"
+    },
+    {
+      "id": 95,
+      "username": "Arnav Bhatt",
+      "email": "arnav.bhatt12@gmail.com",
+      "registration_date": "2025-06-20",
+      "last_login": "2025-06-22"
+    },
+    {
+      "id": 96,
+      "username": "Shalini Nanda",
+      "email": "shalini.nanda@outlook.com",
+      "registration_date": "2025-06-20",
+      "last_login": "2025-06-21"
+    },
+    {
+      "id": 97,
+      "username": "Rohit Kale",
+      "email": "rohit.kale34@gmail.com",
+      "registration_date": "2025-06-21",
+      "last_login": "2025-06-20"
+    },
+    {
+      "id": 98,
+      "username": "Neelam Rathi",
+      "email": "neelam.rathi@yahoo.com",
+      "registration_date": "2025-06-21",
+      "last_login": "2025-06-19"
+    },
+    {
+      "id": 99,
+      "username": "Karan Menon",
+      "email": "karan.menon56@gmail.com",
+      "registration_date": "2025-06-22",
+      "last_login": "2025-06-18"
+    },
+    {
+      "id": 100,
+      "username": "Sweta Grover",
+      "email": "sweta.grover@outlook.com",
+      "registration_date": "2025-06-22",
+      "last_login": "2025-06-17"
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "name": "English"
+    },
+    {
+      "id": 2,
+      "name": "Spanish"
+    },
+    {
+      "id": 3,
+      "name": "French"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "language_id": 2,
+      "base_language_id": 1,
+      "name": "Spanish for English speakers"
+    },
+    {
+      "id": 2,
+      "language_id": 3,
+      "base_language_id": 1,
+      "name": "French for English speakers"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "course_id": 1,
+      "title": "Lesson 1: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 2,
+      "course_id": 1,
+      "title": "Lesson 2: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 3,
+      "course_id": 1,
+      "title": "Lesson 3: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 4,
+      "course_id": 1,
+      "title": "Lesson 4: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 5,
+      "course_id": 1,
+      "title": "Lesson 5: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 6,
+      "course_id": 1,
+      "title": "Lesson 6: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 7,
+      "course_id": 1,
+      "title": "Lesson 7: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 8,
+      "course_id": 1,
+      "title": "Lesson 8: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 9,
+      "course_id": 1,
+      "title": "Lesson 9: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 10,
+      "course_id": 1,
+      "title": "Lesson 10: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 11,
+      "course_id": 2,
+      "title": "Lesson 1: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 12,
+      "course_id": 2,
+      "title": "Lesson 2: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 13,
+      "course_id": 2,
+      "title": "Lesson 3: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 14,
+      "course_id": 2,
+      "title": "Lesson 4: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 15,
+      "course_id": 2,
+      "title": "Lesson 5: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 16,
+      "course_id": 2,
+      "title": "Lesson 6: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 17,
+      "course_id": 2,
+      "title": "Lesson 7: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 18,
+      "course_id": 2,
+      "title": "Lesson 8: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 19,
+      "course_id": 2,
+      "title": "Lesson 9: Basics",
+      "content": "Sample content"
+    },
+    {
+      "id": 20,
+      "course_id": 2,
+      "title": "Lesson 10: Basics",
+      "content": "Sample content"
+    }
+  ],
+  "user_progress": [
+    {
+      "user_id": 1,
+      "course_id": 1,
+      "lesson_id": 1,
+      "completed": true,
+      "xp_earned": 10,
+      "date_completed": "2025-06-29"
+    },
+    {
+      "user_id": 1,
+      "course_id": 1,
+      "lesson_id": 2,
+      "completed": true,
+      "xp_earned": 10,
+      "date_completed": "2025-06-29"
+    },
+    {
+      "user_id": 1,
+      "course_id": 1,
+      "lesson_id": 3,
+      "completed": true,
+      "xp_earned": 10,
+      "date_completed": "2025-06-29"
+    },
+    {
+      "user_id": 1,
+      "course_id": 1,
+      "lesson_id": 4,
+      "completed": true,
+      "xp_earned": 10,
+      "date_completed": "2025-06-29"
+    },
+    {
+      "user_id": 1,
+      "course_id": 1,
+      "lesson_id": 5,
+      "completed": true,
+      "xp_earned": 10,
+      "date_completed": "2025-06-29"
+    }
+  ],
+  "streaks": [
+    {
+      "user_id": 1,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 2,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 3,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 4,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 5,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 6,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 7,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 8,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 9,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 10,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 11,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 12,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 13,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 14,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 15,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 16,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 17,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 18,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 19,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 20,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 21,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 22,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 23,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 24,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 25,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 26,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 27,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 28,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 29,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 30,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 31,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 32,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 33,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 34,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 35,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 36,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 37,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 38,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 39,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 40,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 41,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 42,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 43,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 44,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 45,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 46,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 47,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 48,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 49,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 50,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 51,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 52,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 53,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 54,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 55,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 56,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 57,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 58,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 59,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 60,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 61,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 62,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 63,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 64,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 65,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 66,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 67,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 68,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 69,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 70,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 71,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 72,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 73,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 74,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 75,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 76,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 77,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 78,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 79,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 80,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 81,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 82,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 83,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 84,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 85,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 86,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 87,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 88,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 89,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 90,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 91,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 92,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 93,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 94,
+      "current_streak": 3,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 95,
+      "current_streak": 4,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 96,
+      "current_streak": 5,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 97,
+      "current_streak": 6,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 98,
+      "current_streak": 0,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 99,
+      "current_streak": 1,
+      "last_activity_date": "2025-06-29"
+    },
+    {
+      "user_id": 100,
+      "current_streak": 2,
+      "last_activity_date": "2025-06-29"
+    }
+  ],
+  "xp": [
+    {
+      "user_id": 1,
+      "total_xp": 10
+    },
+    {
+      "user_id": 2,
+      "total_xp": 20
+    },
+    {
+      "user_id": 3,
+      "total_xp": 30
+    },
+    {
+      "user_id": 4,
+      "total_xp": 40
+    },
+    {
+      "user_id": 5,
+      "total_xp": 50
+    },
+    {
+      "user_id": 6,
+      "total_xp": 60
+    },
+    {
+      "user_id": 7,
+      "total_xp": 70
+    },
+    {
+      "user_id": 8,
+      "total_xp": 80
+    },
+    {
+      "user_id": 9,
+      "total_xp": 90
+    },
+    {
+      "user_id": 10,
+      "total_xp": 100
+    },
+    {
+      "user_id": 11,
+      "total_xp": 110
+    },
+    {
+      "user_id": 12,
+      "total_xp": 120
+    },
+    {
+      "user_id": 13,
+      "total_xp": 130
+    },
+    {
+      "user_id": 14,
+      "total_xp": 140
+    },
+    {
+      "user_id": 15,
+      "total_xp": 150
+    },
+    {
+      "user_id": 16,
+      "total_xp": 160
+    },
+    {
+      "user_id": 17,
+      "total_xp": 170
+    },
+    {
+      "user_id": 18,
+      "total_xp": 180
+    },
+    {
+      "user_id": 19,
+      "total_xp": 190
+    },
+    {
+      "user_id": 20,
+      "total_xp": 200
+    },
+    {
+      "user_id": 21,
+      "total_xp": 210
+    },
+    {
+      "user_id": 22,
+      "total_xp": 220
+    },
+    {
+      "user_id": 23,
+      "total_xp": 230
+    },
+    {
+      "user_id": 24,
+      "total_xp": 240
+    },
+    {
+      "user_id": 25,
+      "total_xp": 250
+    },
+    {
+      "user_id": 26,
+      "total_xp": 260
+    },
+    {
+      "user_id": 27,
+      "total_xp": 270
+    },
+    {
+      "user_id": 28,
+      "total_xp": 280
+    },
+    {
+      "user_id": 29,
+      "total_xp": 290
+    },
+    {
+      "user_id": 30,
+      "total_xp": 300
+    },
+    {
+      "user_id": 31,
+      "total_xp": 310
+    },
+    {
+      "user_id": 32,
+      "total_xp": 320
+    },
+    {
+      "user_id": 33,
+      "total_xp": 330
+    },
+    {
+      "user_id": 34,
+      "total_xp": 340
+    },
+    {
+      "user_id": 35,
+      "total_xp": 350
+    },
+    {
+      "user_id": 36,
+      "total_xp": 360
+    },
+    {
+      "user_id": 37,
+      "total_xp": 370
+    },
+    {
+      "user_id": 38,
+      "total_xp": 380
+    },
+    {
+      "user_id": 39,
+      "total_xp": 390
+    },
+    {
+      "user_id": 40,
+      "total_xp": 400
+    },
+    {
+      "user_id": 41,
+      "total_xp": 410
+    },
+    {
+      "user_id": 42,
+      "total_xp": 420
+    },
+    {
+      "user_id": 43,
+      "total_xp": 430
+    },
+    {
+      "user_id": 44,
+      "total_xp": 440
+    },
+    {
+      "user_id": 45,
+      "total_xp": 450
+    },
+    {
+      "user_id": 46,
+      "total_xp": 460
+    },
+    {
+      "user_id": 47,
+      "total_xp": 470
+    },
+    {
+      "user_id": 48,
+      "total_xp": 480
+    },
+    {
+      "user_id": 49,
+      "total_xp": 490
+    },
+    {
+      "user_id": 50,
+      "total_xp": 500
+    },
+    {
+      "user_id": 51,
+      "total_xp": 510
+    },
+    {
+      "user_id": 52,
+      "total_xp": 520
+    },
+    {
+      "user_id": 53,
+      "total_xp": 530
+    },
+    {
+      "user_id": 54,
+      "total_xp": 540
+    },
+    {
+      "user_id": 55,
+      "total_xp": 550
+    },
+    {
+      "user_id": 56,
+      "total_xp": 560
+    },
+    {
+      "user_id": 57,
+      "total_xp": 570
+    },
+    {
+      "user_id": 58,
+      "total_xp": 580
+    },
+    {
+      "user_id": 59,
+      "total_xp": 590
+    },
+    {
+      "user_id": 60,
+      "total_xp": 600
+    },
+    {
+      "user_id": 61,
+      "total_xp": 610
+    },
+    {
+      "user_id": 62,
+      "total_xp": 620
+    },
+    {
+      "user_id": 63,
+      "total_xp": 630
+    },
+    {
+      "user_id": 64,
+      "total_xp": 640
+    },
+    {
+      "user_id": 65,
+      "total_xp": 650
+    },
+    {
+      "user_id": 66,
+      "total_xp": 660
+    },
+    {
+      "user_id": 67,
+      "total_xp": 670
+    },
+    {
+      "user_id": 68,
+      "total_xp": 680
+    },
+    {
+      "user_id": 69,
+      "total_xp": 690
+    },
+    {
+      "user_id": 70,
+      "total_xp": 700
+    },
+    {
+      "user_id": 71,
+      "total_xp": 710
+    },
+    {
+      "user_id": 72,
+      "total_xp": 720
+    },
+    {
+      "user_id": 73,
+      "total_xp": 730
+    },
+    {
+      "user_id": 74,
+      "total_xp": 740
+    },
+    {
+      "user_id": 75,
+      "total_xp": 750
+    },
+    {
+      "user_id": 76,
+      "total_xp": 760
+    },
+    {
+      "user_id": 77,
+      "total_xp": 770
+    },
+    {
+      "user_id": 78,
+      "total_xp": 780
+    },
+    {
+      "user_id": 79,
+      "total_xp": 790
+    },
+    {
+      "user_id": 80,
+      "total_xp": 800
+    },
+    {
+      "user_id": 81,
+      "total_xp": 810
+    },
+    {
+      "user_id": 82,
+      "total_xp": 820
+    },
+    {
+      "user_id": 83,
+      "total_xp": 830
+    },
+    {
+      "user_id": 84,
+      "total_xp": 840
+    },
+    {
+      "user_id": 85,
+      "total_xp": 850
+    },
+    {
+      "user_id": 86,
+      "total_xp": 860
+    },
+    {
+      "user_id": 87,
+      "total_xp": 870
+    },
+    {
+      "user_id": 88,
+      "total_xp": 880
+    },
+    {
+      "user_id": 89,
+      "total_xp": 890
+    },
+    {
+      "user_id": 90,
+      "total_xp": 900
+    },
+    {
+      "user_id": 91,
+      "total_xp": 910
+    },
+    {
+      "user_id": 92,
+      "total_xp": 920
+    },
+    {
+      "user_id": 93,
+      "total_xp": 930
+    },
+    {
+      "user_id": 94,
+      "total_xp": 940
+    },
+    {
+      "user_id": 95,
+      "total_xp": 950
+    },
+    {
+      "user_id": 96,
+      "total_xp": 960
+    },
+    {
+      "user_id": 97,
+      "total_xp": 970
+    },
+    {
+      "user_id": 98,
+      "total_xp": 980
+    },
+    {
+      "user_id": 99,
+      "total_xp": 990
+    },
+    {
+      "user_id": 100,
+      "total_xp": 1000
+    }
+  ],
+  "metrics": {
+    "downloads": [
+      {
+        "date": "2025-07-01",
+        "value": 1000
+      },
+      {
+        "date": "2025-07-02",
+        "value": 1500
+      },
+      {
+        "date": "2025-07-03",
+        "value": 2000
+      },
+      {
+        "date": "2025-07-04",
+        "value": 2500
+      },
+      {
+        "date": "2025-07-05",
+        "value": 3000
+      },
+      {
+        "date": "2025-07-06",
+        "value": 3500
+      },
+      {
+        "date": "2025-07-07",
+        "value": 4000
+      },
+      {
+        "date": "2025-07-08",
+        "value": 4500
+      },
+      {
+        "date": "2025-07-09",
+        "value": 5000
+      },
+      {
+        "date": "2025-07-10",
+        "value": 5500
+      },
+      {
+        "date": "2025-07-11",
+        "value": 6000
+      },
+      {
+        "date": "2025-07-12",
+        "value": 6500
+      },
+      {
+        "date": "2025-07-13",
+        "value": 7000
+      },
+      {
+        "date": "2025-07-14",
+        "value": 7500
+      },
+      {
+        "date": "2025-07-15",
+        "value": 8000
+      },
+      {
+        "date": "2025-07-16",
+        "value": 8500
+      },
+      {
+        "date": "2025-07-17",
+        "value": 9000
+      },
+      {
+        "date": "2025-07-18",
+        "value": 9500
+      },
+      {
+        "date": "2025-07-19",
+        "value": 10000
+      },
+      {
+        "date": "2025-07-20",
+        "value": 10500
+      },
+      {
+        "date": "2025-07-21",
+        "value": 11000
+      },
+      {
+        "date": "2025-07-22",
+        "value": 11500
+      },
+      {
+        "date": "2025-07-23",
+        "value": 12000
+      },
+      {
+        "date": "2025-07-24",
+        "value": 12500
+      },
+      {
+        "date": "2025-07-25",
+        "value": 13000
+      },
+      {
+        "date": "2025-07-26",
+        "value": 13500
+      },
+      {
+        "date": "2025-07-27",
+        "value": 14000
+      },
+      {
+        "date": "2025-07-28",
+        "value": 14500
+      },
+      {
+        "date": "2025-07-29",
+        "value": 15000
+      },
+      {
+        "date": "2025-07-30",
+        "value": 15500
+      },
+      {
+        "date": "2025-07-31",
+        "value": 16000
+      },
+      {
+        "date": "2025-08-01",
+        "value": 16500
+      },
+      {
+        "date": "2025-08-02",
+        "value": 17000
+      },
+      {
+        "date": "2025-08-03",
+        "value": 17500
+      },
+      {
+        "date": "2025-08-04",
+        "value": 18000
+      },
+      {
+        "date": "2025-08-05",
+        "value": 18500
+      },
+      {
+        "date": "2025-08-06",
+        "value": 19000
+      },
+      {
+        "date": "2025-08-07",
+        "value": 19500
+      },
+      {
+        "date": "2025-08-08",
+        "value": 20000
+      },
+      {
+        "date": "2025-08-09",
+        "value": 20500
+      },
+      {
+        "date": "2025-08-10",
+        "value": 21000
+      },
+      {
+        "date": "2025-08-11",
+        "value": 21500
+      },
+      {
+        "date": "2025-08-12",
+        "value": 22000
+      },
+      {
+        "date": "2025-08-13",
+        "value": 22500
+      },
+      {
+        "date": "2025-08-14",
+        "value": 23000
+      },
+      {
+        "date": "2025-08-15",
+        "value": 23500
+      },
+      {
+        "date": "2025-08-16",
+        "value": 24000
+      },
+      {
+        "date": "2025-08-17",
+        "value": 24500
+      },
+      {
+        "date": "2025-08-18",
+        "value": 25000
+      },
+      {
+        "date": "2025-08-19",
+        "value": 25500
+      },
+      {
+        "date": "2025-08-20",
+        "value": 26000
+      },
+      {
+        "date": "2025-08-21",
+        "value": 26500
+      },
+      {
+        "date": "2025-08-22",
+        "value": 27000
+      },
+      {
+        "date": "2025-08-23",
+        "value": 27500
+      },
+      {
+        "date": "2025-08-24",
+        "value": 28000
+      },
+      {
+        "date": "2025-08-25",
+        "value": 28500
+      },
+      {
+        "date": "2025-08-26",
+        "value": 29000
+      },
+      {
+        "date": "2025-08-27",
+        "value": 29500
+      },
+      {
+        "date": "2025-08-28",
+        "value": 30000
+      },
+      {
+        "date": "2025-08-29",
+        "value": 30500
+      },
+      {
+        "date": "2025-08-30",
+        "value": 31000
+      },
+      {
+        "date": "2025-08-31",
+        "value": 31500
+      },
+      {
+        "date": "2025-09-01",
+        "value": 32000
+      },
+      {
+        "date": "2025-09-02",
+        "value": 32500
+      },
+      {
+        "date": "2025-09-03",
+        "value": 33000
+      },
+      {
+        "date": "2025-09-04",
+        "value": 33500
+      },
+      {
+        "date": "2025-09-05",
+        "value": 34000
+      },
+      {
+        "date": "2025-09-06",
+        "value": 34500
+      },
+      {
+        "date": "2025-09-07",
+        "value": 35000
+      },
+      {
+        "date": "2025-09-08",
+        "value": 35500
+      },
+      {
+        "date": "2025-09-09",
+        "value": 36000
+      },
+      {
+        "date": "2025-09-10",
+        "value": 36500
+      },
+      {
+        "date": "2025-09-11",
+        "value": 37000
+      },
+      {
+        "date": "2025-09-12",
+        "value": 37500
+      },
+      {
+        "date": "2025-09-13",
+        "value": 38000
+      },
+      {
+        "date": "2025-09-14",
+        "value": 38500
+      },
+      {
+        "date": "2025-09-15",
+        "value": 39000
+      },
+      {
+        "date": "2025-09-16",
+        "value": 39500
+      },
+      {
+        "date": "2025-09-17",
+        "value": 40000
+      },
+      {
+        "date": "2025-09-18",
+        "value": 40500
+      },
+      {
+        "date": "2025-09-19",
+        "value": 41000
+      },
+      {
+        "date": "2025-09-20",
+        "value": 41500
+      },
+      {
+        "date": "2025-09-21",
+        "value": 42000
+      },
+      {
+        "date": "2025-09-22",
+        "value": 42500
+      },
+      {
+        "date": "2025-09-23",
+        "value": 43000
+      },
+      {
+        "date": "2025-09-24",
+        "value": 43500
+      },
+      {
+        "date": "2025-09-25",
+        "value": 44000
+      },
+      {
+        "date": "2025-09-26",
+        "value": 44500
+      },
+      {
+        "date": "2025-09-27",
+        "value": 45000
+      },
+      {
+        "date": "2025-09-28",
+        "value": 45500
+      }
+    ],
+    "dau": [
+      {
+        "date": "2025-07-01",
+        "value": 500
+      },
+      {
+        "date": "2025-07-02",
+        "value": 650
+      },
+      {
+        "date": "2025-07-03",
+        "value": 800
+      },
+      {
+        "date": "2025-07-04",
+        "value": 950
+      },
+      {
+        "date": "2025-07-05",
+        "value": 1100
+      },
+      {
+        "date": "2025-07-06",
+        "value": 1250
+      },
+      {
+        "date": "2025-07-07",
+        "value": 1400
+      },
+      {
+        "date": "2025-07-08",
+        "value": 1550
+      },
+      {
+        "date": "2025-07-09",
+        "value": 1700
+      },
+      {
+        "date": "2025-07-10",
+        "value": 1850
+      },
+      {
+        "date": "2025-07-11",
+        "value": 2000
+      },
+      {
+        "date": "2025-07-12",
+        "value": 2150
+      },
+      {
+        "date": "2025-07-13",
+        "value": 2300
+      },
+      {
+        "date": "2025-07-14",
+        "value": 2450
+      },
+      {
+        "date": "2025-07-15",
+        "value": 2600
+      },
+      {
+        "date": "2025-07-16",
+        "value": 2750
+      },
+      {
+        "date": "2025-07-17",
+        "value": 2900
+      },
+      {
+        "date": "2025-07-18",
+        "value": 3050
+      },
+      {
+        "date": "2025-07-19",
+        "value": 3200
+      },
+      {
+        "date": "2025-07-20",
+        "value": 3350
+      },
+      {
+        "date": "2025-07-21",
+        "value": 3500
+      },
+      {
+        "date": "2025-07-22",
+        "value": 3650
+      },
+      {
+        "date": "2025-07-23",
+        "value": 3800
+      },
+      {
+        "date": "2025-07-24",
+        "value": 3950
+      },
+      {
+        "date": "2025-07-25",
+        "value": 4100
+      },
+      {
+        "date": "2025-07-26",
+        "value": 4250
+      },
+      {
+        "date": "2025-07-27",
+        "value": 4400
+      },
+      {
+        "date": "2025-07-28",
+        "value": 4550
+      },
+      {
+        "date": "2025-07-29",
+        "value": 4700
+      },
+      {
+        "date": "2025-07-30",
+        "value": 4850
+      },
+      {
+        "date": "2025-07-31",
+        "value": 5000
+      }
+    ],
+    "retention": {
+      "day1": [
+        {
+          "cohort_date": "2025-07-01",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-02",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-03",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-04",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-05",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-06",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-07",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-08",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-09",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-10",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-11",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-12",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-13",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-14",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-15",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-16",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-17",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-18",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-19",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-20",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-21",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-22",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-23",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-24",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-25",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-26",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-27",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-28",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-29",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-30",
+          "retention_rate": 0.4
+        },
+        {
+          "cohort_date": "2025-07-31",
+          "retention_rate": 0.4
+        }
+      ],
+      "day7": [
+        {
+          "cohort_date": "2025-07-01",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-02",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-03",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-04",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-05",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-06",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-07",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-08",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-09",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-10",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-11",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-12",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-13",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-14",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-15",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-16",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-17",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-18",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-19",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-20",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-21",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-22",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-23",
+          "retention_rate": 0.2
+        },
+        {
+          "cohort_date": "2025-07-24",
+          "retention_rate": 0.2
+        }
+      ]
+    },
+    "avg_lessons_completed": [
+      {
+        "date": "2025-07-01",
+        "value": 10.0
+      },
+      {
+        "date": "2025-07-02",
+        "value": 10.33
+      },
+      {
+        "date": "2025-07-03",
+        "value": 10.66
+      },
+      {
+        "date": "2025-07-04",
+        "value": 10.99
+      },
+      {
+        "date": "2025-07-05",
+        "value": 11.32
+      },
+      {
+        "date": "2025-07-06",
+        "value": 11.65
+      },
+      {
+        "date": "2025-07-07",
+        "value": 11.98
+      },
+      {
+        "date": "2025-07-08",
+        "value": 12.31
+      },
+      {
+        "date": "2025-07-09",
+        "value": 12.64
+      },
+      {
+        "date": "2025-07-10",
+        "value": 12.97
+      },
+      {
+        "date": "2025-07-11",
+        "value": 13.3
+      },
+      {
+        "date": "2025-07-12",
+        "value": 13.63
+      },
+      {
+        "date": "2025-07-13",
+        "value": 13.96
+      },
+      {
+        "date": "2025-07-14",
+        "value": 14.29
+      },
+      {
+        "date": "2025-07-15",
+        "value": 14.620000000000001
+      },
+      {
+        "date": "2025-07-16",
+        "value": 14.95
+      },
+      {
+        "date": "2025-07-17",
+        "value": 15.280000000000001
+      },
+      {
+        "date": "2025-07-18",
+        "value": 15.61
+      },
+      {
+        "date": "2025-07-19",
+        "value": 15.940000000000001
+      },
+      {
+        "date": "2025-07-20",
+        "value": 16.27
+      },
+      {
+        "date": "2025-07-21",
+        "value": 16.6
+      },
+      {
+        "date": "2025-07-22",
+        "value": 16.93
+      },
+      {
+        "date": "2025-07-23",
+        "value": 17.26
+      },
+      {
+        "date": "2025-07-24",
+        "value": 17.59
+      },
+      {
+        "date": "2025-07-25",
+        "value": 17.92
+      },
+      {
+        "date": "2025-07-26",
+        "value": 18.25
+      },
+      {
+        "date": "2025-07-27",
+        "value": 18.58
+      },
+      {
+        "date": "2025-07-28",
+        "value": 18.91
+      },
+      {
+        "date": "2025-07-29",
+        "value": 19.240000000000002
+      },
+      {
+        "date": "2025-07-30",
+        "value": 19.57
+      },
+      {
+        "date": "2025-07-31",
+        "value": 19.9
+      }
+    ],
+    "app_store_rating": [
+      {
+        "date": "2025-07-01",
+        "value": 4.0
+      },
+      {
+        "date": "2025-07-02",
+        "value": 4.02
+      },
+      {
+        "date": "2025-07-03",
+        "value": 4.04
+      },
+      {
+        "date": "2025-07-04",
+        "value": 4.06
+      },
+      {
+        "date": "2025-07-05",
+        "value": 4.08
+      },
+      {
+        "date": "2025-07-06",
+        "value": 4.1
+      },
+      {
+        "date": "2025-07-07",
+        "value": 4.12
+      },
+      {
+        "date": "2025-07-08",
+        "value": 4.14
+      },
+      {
+        "date": "2025-07-09",
+        "value": 4.16
+      },
+      {
+        "date": "2025-07-10",
+        "value": 4.18
+      },
+      {
+        "date": "2025-07-11",
+        "value": 4.2
+      },
+      {
+        "date": "2025-07-12",
+        "value": 4.22
+      },
+      {
+        "date": "2025-07-13",
+        "value": 4.24
+      },
+      {
+        "date": "2025-07-14",
+        "value": 4.26
+      },
+      {
+        "date": "2025-07-15",
+        "value": 4.28
+      },
+      {
+        "date": "2025-07-16",
+        "value": 4.3
+      },
+      {
+        "date": "2025-07-17",
+        "value": 4.32
+      },
+      {
+        "date": "2025-07-18",
+        "value": 4.34
+      },
+      {
+        "date": "2025-07-19",
+        "value": 4.36
+      },
+      {
+        "date": "2025-07-20",
+        "value": 4.38
+      },
+      {
+        "date": "2025-07-21",
+        "value": 4.4
+      },
+      {
+        "date": "2025-07-22",
+        "value": 4.42
+      },
+      {
+        "date": "2025-07-23",
+        "value": 4.44
+      },
+      {
+        "date": "2025-07-24",
+        "value": 4.46
+      },
+      {
+        "date": "2025-07-25",
+        "value": 4.48
+      },
+      {
+        "date": "2025-07-26",
+        "value": 4.5
+      },
+      {
+        "date": "2025-07-27",
+        "value": 4.5
+      },
+      {
+        "date": "2025-07-28",
+        "value": 4.5
+      },
+      {
+        "date": "2025-07-29",
+        "value": 4.5
+      },
+      {
+        "date": "2025-07-30",
+        "value": 4.5
+      },
+      {
+        "date": "2025-07-31",
+        "value": 4.5
+      }
+    ]
+  }
+}
