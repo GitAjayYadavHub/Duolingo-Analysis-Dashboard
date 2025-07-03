@@ -1,4 +1,4 @@
-[
+[ 
   {"date": "2025-06-01", "downloads": 1400, "cumulative_downloads": 1400, "dau": 1000, "retention": {"day1": 40.0, "day7": null, "day30": null}, "avg_lessons": 2.50, "app_rating": 4.00, "progress_to_goal": {"downloads": 2.80, "dau": 20.00, "avg_lessons": 50.00, "app_rating": 88.89}},
   {"date": "2025-06-02", "downloads": 1040, "cumulative_downloads": 2440, "dau": 655, "retention": {"day1": 40.34, "day7": null, "day30": null}, "avg_lessons": 2.55, "app_rating": 4.02, "progress_to_goal": {"downloads": 4.88, "dau": 13.10, "avg_lessons": 51.00, "app_rating": 89.33}},
   {"date": "2025-06-03", "downloads": 1080, "cumulative_downloads": 3520, "dau": 810, "retention": {"day1": 40.69, "day7": null, "day30": null}, "avg_lessons": 2.60, "app_rating": 4.04, "progress_to_goal": {"downloads": 7.04, "dau": 16.20, "avg_lessons": 52.00, "app_rating": 89.78}},
